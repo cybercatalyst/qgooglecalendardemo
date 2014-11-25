@@ -1,0 +1,4 @@
+qgooglecalendardemo
+===================
+
+Demo for QGoogleCalendar
