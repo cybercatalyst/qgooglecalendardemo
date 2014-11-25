@@ -1,0 +1,6 @@
+[submodule "qgooglecalendar"]
+	path = qgooglecalendar
+	url = https://github.com/cybercatalyst/qgooglecalendar.git
+[submodule "qoauth2"]
+	path = qoauth2
+	url = https://github.com/cybercatalyst/qoauth2.git
